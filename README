@@ -1,17 +1,7 @@
-The final code is located in code/branches/Final_submission folder.
 
-H_Cluster_Finished.ipynb is the one part of the  final code submission. It is a Jupyter Notebook containing the script implementing hierarchical clustering.
+H_Cluster_Finished.ipynb is a Jupyter Notebook containing the script implementing hierarchical clustering.
 
-K_Means_Finished.ipynb is the other part of the final code submission. It is a Jupyter Notebook containing the script implementing K-means clustering.
-
-These two are the final code submissions. 
+K_Means_Finished.ipynb is a Jupyter Notebook containing the script implementing K-means clustering.
 
 The code loads datasets that are included in the code/branches/Final_submission/data folder.
 The code allows for different datasets to be loaded for examination.
-
-The code/branches/Final_submission/models folder is for saving the Excel spreadsheets from the notebooks. 
-
-Jupiter Notebooks can be downloaded from https://jupyter.org/install
-
-Jupiter Notebooks can be also be used via Anaconda Navigator. 
-Anaconda Navigator can be downloaded from https://www.anaconda.com/products/individual
