@@ -4,3 +4,5 @@ K_Means_Finished.ipynb is a Jupyter Notebook containing the script implementing 
 
 The code loads datasets that are included in the data folder.
 The code allows for different datasets to be loaded for examination.
+The datasets include two different gearboxes tested with the addition of new variables.
+There is also a dataset containing both gearboxes and all the variables to test the algorithms on a larger dataset/
