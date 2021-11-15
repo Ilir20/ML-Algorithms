@@ -2,5 +2,5 @@ H_Cluster_Finished.ipynb is a Jupyter Notebook containing the script implementin
 
 K_Means_Finished.ipynb is a Jupyter Notebook containing the script implementing K-means clustering.
 
-The code loads datasets that are included in the code/branches/Final_submission/data folder.
+The code loads datasets that are included in the data folder.
 The code allows for different datasets to be loaded for examination.
